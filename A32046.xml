@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor doubting Christian drawn to Christ plainly shewing every poor sinner his estate he is in without Christ ... being very useful for every poor sinner to practice and make use of in these sinful, wicked, and backsliding times / by E.C.</title>
+            <author>E. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32046</idno>
+            <idno type="STC">Wing C26</idno>
+            <idno type="STC">ESTC R33297</idno>
+            <idno type="EEBO-CITATION">13131540</idno>
+            <idno type="OCLC">ocm 13131540</idno>
+            <idno type="VID">97862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1546:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor doubting Christian drawn to Christ plainly shewing every poor sinner his estate he is in without Christ ... being very useful for every poor sinner to practice and make use of in these sinful, wicked, and backsliding times / by E.C.</title>
+                  <author>E. C.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The 4th impression.</edition>
+               </editionStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+               <term>Sin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97862:1" rendition="simple:additions"/>
+            <p>THE Poor Doubting CHRISTIAN Drawn to CHRIST. Plainly ſhewing every poor Sinner the mi<g ref="char:EOLhyphen"/>ſerableneſs of his Eſtate he is in, without Chriſt. With ſeveral ſweet Motives to Draw us to Chriſt, Alſo comfortable Di<g ref="char:EOLhyphen"/>rections how to live by Faith, and ſo to attain unto Grace and Salvation. Being very uſeful for every poor Sinner to practice and make uſe of, in theſe ſinful, wicked, and backſliding times.
+<q>
+                  <bibl>Iſa. 55. 1.</bibl> Ho, every one that thirſteth, drink of the waters of life; and he that hath no money, come, buy and eat freely.</q>
+               <q>Come ye bleſſed of my Father, inherit the King<g ref="char:EOLhyphen"/>dom prepared for you, from before the foun<g ref="char:EOLhyphen"/>dation of the World,
+<bibl>Mat. 25. 32.</bibl>
+               </q> BY <hi>E. C. The</hi> 4<hi rend="sup">th</hi> 
+               <hi>Impreſſion.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wright,</hi> at the Globe in <hi>Little-Brittain.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:97862:2"/>
+            <pb facs="tcp:97862:2" rendition="simple:additions"/>
+            <head>THE Poor Doubting Chriſtian Drawn unto CHRIST.</head>
+            <p>THe great Deſign that the moſt Wiſe God Created Man for, was, that he (being Obedient) might be happy to all Eternity; But Man being no ſooner plac'd in that moſt Beautiful (and Fruitful) Garden of <hi>Eden,</hi> but (by the inſtigation of the Devil) he ſoon Rebell'd againſt his Cre<g ref="char:EOLhyphen"/>ator, (in breaking the Command) and ſo Fell, and became wicked and ſinful in all his Poſterity (which was) That <hi>the Seed of the Woman ſhould break the Serpents Head; So that we being dead unto ſin, might live in Chriſt.</hi>
+            </p>
+            <p>And the great Deſign of Chriſt com<g ref="char:EOLhyphen"/>ming (in he Fleſh) into the World, was to Draw poor Sinners unto him, that (thorough Faith) they might be Saved.</p>
+            <pb facs="tcp:97862:3"/>
+            <p>For whom did Criſt come into the world and for whom did he dye when he was come? Was it for the <hi>Righteous?</hi> ſuch néeded him not: It was for the <hi>poor Sinner</hi> that judges himſelf, that condemns himſelf, and he that cannot ſave him<g ref="char:EOLhyphen"/>ſelf. <hi>Paul</hi> ſaith, <hi>Chriſt Jeſus came into the world to ſave ſinners, of whom I am the chief,</hi> 1 <hi>Tim</hi> 1. 15: and <hi>Zech.</hi> 13. 1. <hi>There is a Fountain opened for ſin, and for uncleanneſs;</hi> that is, for all ſorts of ſins, and kind of ſinners: be their iniquities never ſo great and never ſo vile, there is a Fountain ſet open for them, come who will. There was never any ſaved or reeeived to mer<g ref="char:EOLhyphen"/>cy, that firſt oppoſed not the mercies of God and his grace in Chriſt.</p>
+            <p>What Scripture ever ſaid, that the greatneſs of mans ſin could hinder the greatneſs of Gods mercy? No Scripture ſaith ſo; we ſée <hi>David</hi> prayed to the con<g ref="char:EOLhyphen"/>trary. <hi>Have mercy upon me, O Lord, and pardon my ſins, for they be great, <hi>Pſal</hi>
+               </hi> 25. 11 Nay, God himſelf doth the quite con<g ref="char:EOLhyphen"/>trary. <hi>Iſai.</hi> 43. 24. 25. <hi>Thou haſt made me ſerve with thy ſins, and wearied me with thine in quities, yet I am He that blotteth out thy tranſgreſſions for my Names ſake.</hi> When the Iews did fire God with their diſtem<g ref="char:EOLhyphen"/>pered
+<pb facs="tcp:97862:3"/> manners, and burdened him with their ſinful courſes, then the Lord (for his own Name ſake) would not ſo much as remember their Iniquities againſt them.</p>
+            <p>Sins though they be never ſo hainous of themſelves, yet if the ſoul can ſée them. and the heart be burdened with them, they are ſo far from hindering the work of faith, and from making thée uncapable of mercy, that they fit thée the rather to go to Chriſt. The truth is (which I pray you take notice of,) it is not properly our un<g ref="char:EOLhyphen"/>worthineſs, but our pride and haughti<g ref="char:EOLhyphen"/>neſs that hinders us from comming to Chriſt; for we would fain have ſome<g ref="char:EOLhyphen"/>thing from our ſelves, and no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all from him but to the diſtreſſed ſoul, that ſées the vileneſs of his ſins; the Lord will not caſt thee away, if thou wilt come and ſéek him earneſtly, again, and again: The Lord ſaid to <hi>Judah, I have ſeen his ways, and will heal him,</hi> again, <hi>Thou haſt played the Harlot with many Lovers, yet turn again to me, ſaith the Lord.</hi> So then, there is no time paſt, if a Man have but a heart to re<g ref="char:EOLhyphen"/>turne There is no limitation of the riches of Gods frée grace, except the ſin againſt the Holy Ghoſt; therefore ſaith Chriſt,
+<pb facs="tcp:97862:4"/> 
+               <hi>I ſtanding at the door and knock, <hi>Revel.</hi>
+               </hi> 3. 20. Though he cry till he be hoarſe. and ſtand till he be weary, yet he ſtands ſtill: if any adulterous or deceitful wretch will open, Chriſt will come in, and bring in ſtore of comfort to him, and ſup with him.</p>
+            <p>Oh, all this is true, ſaith the poor ſoul, had I but a heart to mourn for my baſe<g ref="char:EOLhyphen"/>neſs. Sée my ſins I do, but this is my miſery, I cannot be burdened with them; I have a heart that cannot break &amp; mourn for diſhonoring God, and offending him ſo many ways, But I ſay.</p>
+            <p>This hurts not neither; provided that thy heart be weary of it ſelf, becauſe it cannot be weary of ſin. <hi>The Lord ſheweth mercy, becauſe he will ſhew mercy:</hi> It is not becauſe thou canſt pleaſe him, but be<g ref="char:EOLhyphen"/>cauſe mercy pleaſeth him. When did the Lord ſhew mercy unto <hi>Paul?</hi> but even when <hi>Paul</hi> did expreſs moſt malice againſt him? <hi>Saul, Saul, <hi>Why perſecuteſt thou me?</hi>
+               </hi> He perſecutes Chriſt, and yet Chriſt pit<g ref="char:EOLhyphen"/>ties him, and ſhews him mercy: and ſo the churliſh <hi>Jaylor,</hi> when he was moſt oppoſite againſt the means of grace, the Lord even then ſhewed moſt comfortable upon him. He that (before) reſiſted the means of grace, was brought home by
+<pb facs="tcp:97862:4"/> thoſe means that before he reſiſted.</p>
+            <p>Alas, (ſaith the poor Sinner (I never knew what it was to have the aſſurance of Gods love; I never received any evi<g ref="char:EOLhyphen"/>dence of Gods favour; and can I (then) think that I have Faith? they that Be<g ref="char:EOLhyphen"/>lieve have their hearts filled with Ioy unſpeakable and glorious? the Scripture ſaith as much. But I am a Stranger to this Ioy; how then can I think that I have any work of Faith wrought in me?</p>
+            <p>I anſwer; When a poor Sinner sées his ſins, the number of them, that nature of them, the vileneſs of them, the curſed<g ref="char:EOLhyphen"/>neſs of his ſoul, that he can take no reſt; he ſées no reſt in the creature, nor in himſelf. Though he pray all day, yet he cannot get the pardon of one ſin: the ſoul is out of any expectation of pardon, or power of mercy in any thing he hath or doth; Though all means, all helps, all Men and Angels ſhould joyn together, yet they cannot pardon one ſin of his. Now the LORD lifts up his voice, and ſays from Heaven, Thy ſins are pardonable. O the infiniteneſs of Gods power! though the guilt of ſin is powerful to condemn the ſoul; But when the infinite power of the Lord is conſidered, as able to over power
+<pb facs="tcp:97862:5"/> all his ſins, this lifteth up the heart in ſome expectation that the Lord will ſhew mercy to a man; though it is a hard thing to hope, when the Soul is thus troubled.</p>
+            <p>
+               <hi>Object.</hi> Can this heart be broke? can theſe ſins be pardoned? can this Soul be ſaved?</p>
+            <p>
+               <hi>Anſ.</hi> God can pardon them. Never mea<g ref="char:EOLhyphen"/>ſure the power of God by that ſhallow con<g ref="char:EOLhyphen"/>ceit of thine. All things are poſſible to God, though not to men. And as it is ſaid of <hi>Abraham, <hi>He hoped above hope;</hi>
+               </hi> he look<g ref="char:EOLhyphen"/>ed to the Lord that was able to do what he had promiſed: he conſidered not that he had a dead body, but that he had a liv<g ref="char:EOLhyphen"/>ing God to hope on. Iuſtice cannot be ſo ſevere to revenge thée, as mercy is gra<g ref="char:EOLhyphen"/>cious to do good unto thée. If thy ſins be ne'r ſo many, Gods Iuſtice ne'r ſo great; yet mercy is above all thy ſins. This may ſupport thy Soul; thy ſins are par<g ref="char:EOLhyphen"/>donable. There is no more power in God to ſhew mercy to thée, then power in ſin to deſtroy thée: The Lord Ieſus Chriſt came to <hi>ſeek, and to ſave that which was loſt:</hi> it was the ſcope of his coming.</p>
+            <p>Now ſaith the broken and humble ſin<g ref="char:EOLhyphen"/>ner, Did Chriſt come to ſave ſinners?
+<pb facs="tcp:97862:5"/> my ſins are ſo many and great, can they be pardoned? Yet God ſays, <hi>Come to me all ye that are heavy laden.</hi> I am weary and unleſs the Lord intended good to me, Why did he invite me, and bid me come? Sure<g ref="char:EOLhyphen"/>ly he means to ſhew mercy to me.</p>
+            <p>O take héed! Queſtion thy eſtate thou maiſt but to caſt away all hope, is very heinous in the eyes of the Lord, Caſt a<g ref="char:EOLhyphen"/>way all carnal confidence thou muſt, and yet thou muſt hope; <hi>Let Iſrael hope in the Lord; for in the Lord, &amp;c</hi> Thou goeſt to the déep Dungeon of thy corruption and there thou ſaiſt: theſe ſins can never be pardon<g ref="char:EOLhyphen"/>ed. Is any thing too hard for the Lord? You wrong God exceedingly: you think it's a matter of humility, to count your ſelves ſo vile. Can God pardon ſuch a wretches ſin as mine: no, no, my ſins are greater than can be pardoned, ſaith the diſpairing Soul. Conſider how inju<g ref="char:EOLhyphen"/>rious this is to God, to make the power of ſin greater to condemn thée, than the power of God to ſave thee.</p>
+            <p>Sée now and conſider what deſperate danger Deſpair brings to a poor heart, and carries him beyond the reach of mercy. That's a ſwéet paſſage of <hi>Davids, Pſal. 77. 7. Will the Lord caſt me off for ever? I ſaid
+<pb facs="tcp:97862:6"/> this was my infirmity:</hi> What, is mercy gone for ever? then is all my comfort gone: Therefore take héed of this, it takes off the edge of all our endeavours and Gods Ordinances that might do us good.</p>
+            <p>Therefore, let the ſoul in this caſe bear upon the Almightineſs of the Power of God, who ſaid to <hi>Abraham, <hi>I am God Al-ſufficient.</hi>
+               </hi> For if thou be perſwaded of the Al-ſuffciency of God, that aſſurence can<g ref="char:EOLhyphen"/>not but ſtay thée from falling: and here remember that God can do more then thou canſt think. He is able, and doth the good, though thou knoweſt it not.</p>
+            <p>Meaſure not the riches of Gods love, and the ſwéetneſs of his ſaving grace accor<g ref="char:EOLhyphen"/>ding to your own conceits: nor do you think that becauſe you cannot preſently receive it, therefore God will not do it, for <hi>Iſaiah</hi> ſaith, <hi>Let the wicked forſake his way, and the unrighteous man his thoughts, <hi>Iſa.</hi>
+               </hi> 55. 7, 8, 9. that is, All you wicked ones, and you that have lived Lewdly, Return from your wicked ways and vain thoughts; and God will abundantly ſhew mercy.</p>
+            <p>Thou muſt in all things that concern thy Soul repair to the Scripture: ſo thou
+<pb facs="tcp:97862:6"/> muſt conſider thine own uprightneſs by it, and ſée what work is in thy ſoul that is able to anſwer the Word, and to teſtifie that the work of grace is there. And here be ſure to take your ſoul at the beſt: do not always pore upon the worſt that is in it, nor upon thy failings, nor that, that can onely accuſe thée; but if thou find any thing there that may juſtly ſpeak for thée, neglect not that. It is an injuſtice for any Court to hear one ſide and not the other, The Scripture is a Text of Iuſtice, and the Lord doth not lie at catch with his Children, but takes them at the beſt: as <hi>Rom.</hi> 4. 22. it is there ſaid of <hi>Abraham</hi> that he <hi>believed the promiſe, and it was imputed to him for righteouſneſs</hi> In<g ref="char:EOLhyphen"/>déed, as in the 12. of <hi>Gen.</hi> he had ſome doubtings: but God took him at the beſt: and ſpeaks this of his faith. So <hi>Sarah</hi> is ſpoken of as a gracious Woman, and of a pattern for women, by calling her Huſ<g ref="char:EOLhyphen"/>band <hi>Lord;</hi> which was a ſign of rever<g ref="char:EOLhyphen"/>ence to her Husband; and an humble heart to the Lord, and yet we read that ſhe de<g ref="char:EOLhyphen"/>rided the Meſſuage of the Lord by the Angel: the Lord buries that, and onely ſpeaks of that which was to her commen<g ref="char:EOLhyphen"/>dation, <hi>Gen. 12. 12.</hi> and ſo took her at her
+<pb facs="tcp:97862:7"/> beſt too: Now as the Lord dealt with theſe ſo ſhould we with our ſelves? what ſoe<g ref="char:EOLhyphen"/>ver is found ſincere and upright in us, that ſhould we obſerve as well as that which is not ſo: So when men ſhall bring in ſo many Indictments againſt them<g ref="char:EOLhyphen"/>ſelves, and ſay, Oh what pride and ſtub<g ref="char:EOLhyphen"/>borneſs is in my heart! Oh how weak am I, and dull, and dead, and backward<g ref="char:EOLhyphen"/>neſs to holy duties! O how careleſs of enioying Communion with God! How negligent in ſifting and trying my own heart, in watching over my ſenſes, and mourning in ſecret for my own failings! Though this were ſo, yet if men will ſée no more (and theſe too much) no marvel if they trouble their own houſe, or if Sathan by their own words Iudge them. To ſuch a one therefore I ſay, All that thou ſayeſt may be true; but art thou not troubled with theſe failings? and are they not the greateſt grief that thy ſoul hath? Yea ſaith the poor ſoul, I confeſs my heart is vexed, and my ſoul grieved for them; and I could be content to be any thing that I could be ſo.</p>
+            <p>Now labor to have thy Conſcience ſet<g ref="char:EOLhyphen"/>tled and ſtabliſh'd in the truth, which now thou haſt gotten to bear witneſs of the
+<pb facs="tcp:97862:7"/> work of grace in thée. For if there be any want of the aſſurance of Gods love, <hi>For if our Conſcience condemn us not, then we have boldneſs towards God.</hi> We muſt ſtop the mouth of Conſcience; that is, be convin<g ref="char:EOLhyphen"/>ced and agrée, that it is a ſin to ſay, God hath not wrought this work of grace in the heart, when 'tis ſo clear he hath. For though ſenſe and féeling be as it ſome<g ref="char:EOLhyphen"/>times will be) gone, yet Conſcience re<g ref="char:EOLhyphen"/>members the day and year, when the ſin<g ref="char:EOLhyphen"/>ner had a clear evidence of Gods love, and therefore ſaith, Lord thou knoweſt it, and thou didſt ſay out of the Word at ſuch a time, that the heart of this poor ſoul was upright and ſincere before thée.</p>
+            <p>You muſt therefore wait vpon God, and the Spirit of God in the uſe of the means for this matter, by believing rightly to your aſſurance: For ſo the Text ſaith, <hi>To you it is given to believe;</hi> it muſt be given therefore: and Faith is the frée gift of God. It is God then that muſt do it; who yet will not do it without us, being reaſonable men and women in the power of willing. Again, the Lord affords us means; yet not ſo uſe them, and give him the ſlip. And here it is a good ſaying; let the Lord do what he will, and let us do
+<pb facs="tcp:97862:8"/> what we ſhould. We muſt not think when wée have the means, that we can get Faith preſently: for, as <hi>Paul</hi> ſaith, <hi>The ſame power that raiſed up Jeſus from the dead, muſt make us able to believe, <hi>Eph.</hi>
+               </hi> 1. 20. or elſe all the Angels in Heaven, and all the Miniſters on Earth, and all help that Men and Means can give us, will do us no good. Now the Means are of di<g ref="char:EOLhyphen"/>vers kinds: as, Hearing, and Prayer, and Sacraments, which are y<hi rend="sup">e</hi> Conduits from which God communicats Faith,</p>
+            <p>Now Faith brings the Promiſes home to thée, and thou ſéeſt the ſufficiency of it, then all thou haſt to do is this, in the ſtream of y<hi rend="sup">e</hi> Promiſe, be carried home to Chriſt, The Prodigal <hi>Luke 15.</hi> is ſaid to be like a <hi>loſt Sheep.</hi> Mark this, for it con<g ref="char:EOLhyphen"/>cerns you, The poor Shéep is wandring up and down; now in the mouth of the Lyon, and then in the Bryers, and ſome<g ref="char:EOLhyphen"/>times in the Pit: The Text ſaith, <hi>He lea<g ref="char:EOLhyphen"/>veth ninty nine, to ſeek that.</hi> That is, in compariſon of what care he expreſſeth to the Loſt Shéep; He leaveth a man regen<g ref="char:EOLhyphen"/>erate not carel ſly, but he will not expreſs ſo great love, as to a poor loſt man: And though thou canſt not find y<hi rend="sup">e</hi> way to hea<g ref="char:EOLhyphen"/>ven, yet he will find it thée; lye thou up<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:97862:8"/> the ſhoulders of Chriſt. When thou findeſt thy heart féeble and weak, and thy ſelf unable to beleive, then the Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt brings the Spirit of Grace, &amp; that comes to ſéek, and Ieſus Chriſt layes that ſoul of thine upon his Soulders (that is upon y<hi rend="sup">e</hi> richneſs &amp; fréenſes of his Grace) Therefore let thy heart be tranſported by the Power of that Grace, &amp; by the vertue of that Mercy that God hath made known to thée, for thy everlaſting good.</p>
+            <p>Therefore reſt thy ſelf upon this Pro<g ref="char:EOLhyphen"/>miſe, and ſay; Lord, in the vertue of that Grace, and in the power of that Spirit, carry me, and in the riches of that mercy of thine. Lord, convey the heart of this poor Sinner, and make me happy with thy ſelf for ever. Remember what Chriſt ſaith, <hi>Matth.</hi> 25. 34. <hi>Come ye bleſſed of my Father, inherit the Kingdom prpared for you.</hi> Then no more tears, no more trouble, no more ſorrow, no more ſin; the day will come when ye ſhall have happi<g ref="char:EOLhyphen"/>neſs &amp; joy, beyond all that the tongue of man can expreſs, or the heart conceive.</p>
+            <p>Though we are buffetted with many temptations, and waried with a world of corruptions, yet we ſhall be ſaved, ſaith Faith.</p>
+            <pb facs="tcp:97862:9"/>
+            <p>Remember what I ſpeak now; and la<g ref="char:EOLhyphen"/>bour to faſten this truth upon thy heart; that there is not only preſent good in thy ſelf, but in another, and reſerved by an<g ref="char:EOLhyphen"/>ther for thy comfort, and be thou con<g ref="char:EOLhyphen"/>tent it ſhould be ſo, not only to look what thou haſt; but conſider that the greateſt part of thy glory, is in the glory of a Chriſt; and the greateſt part of thy wiſ<g ref="char:EOLhyphen"/>dom, is in the wiſdom of a Chriſt, and the greateſt part of thy liberty, in the li<g ref="char:EOLhyphen"/>berty of a Chriſt; and thy riches, in the riches of a Chriſt: And know, what e<g ref="char:EOLhyphen"/>ver is in Chriſt, thou haſt it all as thine; <hi>John</hi> 3. 12. <hi>Behold what love the Father hath ſhewn to us, that we are</hi> now <hi>the Sons of God!</hi> I tell you Brethren, this is a mar<g ref="char:EOLhyphen"/>velous priviledge, and if you had no more but this, you had a childs portion; but it appears not what we ſhall have, we have but a glimps now; what think you will the harveſt be? Now we have but the ſips of it, what ſhall then the full cups be, when <hi>we ſhall ſee Chriſt as he is,</hi> Thus did <hi>Moſes</hi> improve his eſtate, <hi>Heb.</hi> 11. 26. He bore all afflictions comfortably; yea, <hi>He eſteemed the rebukes of Chriſt greater riches then the treaſures of <hi>Egypt;</hi>
+               </hi> Why? <hi>becauſe he had an eye to the Recompence, of Reward.</hi>
+            </p>
+            <pb facs="tcp:97862:9"/>
+            <p>What <hi>Moſes</hi> did, do thou: Though thou haſt many corruptions; and many diſgraces caſt upon thée, though thou haſt little ſtrength, and art at a great loſs in point of comfort, yet there is enough in Heaven, enough in Chriſt, both of riches and comfort: Let thy ſoul then be care<g ref="char:EOLhyphen"/>ful to make all theſe preſent with thee for thine own good.</p>
+            <p>When the Husband man hath ſown his ground, and his fruit is ripe, and he hath reaped it, then he muſt gather in his Corn, that he may live upon it. So let us gather in the Promiſes when we ſée the beſt advantage; now let us take the gain and live by it, and that comfortably too, in the proof of Gods goodneſs therein. For this end I ſhall give you ſome di<g ref="char:EOLhyphen"/>rections, how to live in, and by faith.</p>
+            <p>Firſt, Thou ſéeſt what God is in the Promiſe; and thou expecteſt no more than God there. Then look upon that perti<g ref="char:EOLhyphen"/>cular good in the Promiſe, which thou ſtandeſt in néed of; eye that good in Chriſt, and then ſet Gods power and Faithful<g ref="char:EOLhyphen"/>neſs a work to bring that good, and his Wiſdom to continue it. That which thou ſéeſt and néedſt in the Promiſe, that the Power and Wiſdom of God may
+<pb facs="tcp:97862:10"/> communicate to thy ſoul. This is the meaning of that place, <hi>Pſal,</hi> 37. 5. <hi>Com<g ref="char:EOLhyphen"/>mit thy ways unto the Lord; truſt in him, and he ſhall bring it to paſs.</hi> Root thy ſelf, and lay all thy occaſions upon the Lord: Therefore the <hi>Apoſtle</hi> ſaith, 1 <hi>Pet.</hi> 5. <hi>Hurl your care upon the Lord, for he careth for you.</hi> It is Gods proper office and work: he careth for thy ſoul, therefore lay it whol<g ref="char:EOLhyphen"/>ly upon him, and put over all thy care in<g ref="char:EOLhyphen"/>to his hands: and ſet his power and faith<g ref="char:EOLhyphen"/>fulneſs a work. I ſpeak not this, that we ſhould take no care at all, but I ſay, hang all the weight and burden upon the Lord.</p>
+            <p>Secondly, By Faith go to the promiſe again for help and power to wait on God in that way, and to look towards God in the uſe of thoſe means, that he hath ap<g ref="char:EOLhyphen"/>pointed for the attaining of that good, which his power will work for thée: God will certainly work it: and ſo thou muſt méet God in the courſe of his providence, in the improvement of the means he hath appointed for thy good: Obſerve thou this providence, and do thou what God re<g ref="char:EOLhyphen"/>quires: for otherwiſe we live not by Faith, but tempt God, and throw away the Promiſes and all, &amp; deprive our ſelves of that good which God would beſtow:
+<pb facs="tcp:97862:10"/> we not walking in that way which he hath appointed. <hi>Luke</hi> 24. 46. When our Saviour was to go to Heaven, he ſaid, <hi>Behold I ſend the promiſe of my Father a<g ref="char:EOLhyphen"/>mong you: but tarry you in the City of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> until you be indued with power from above.</hi> Chriſt would indue them with the Spirit; but they muſt tarry at <hi>Jeruſalem,</hi> and wait for it: So I ſay. Wouldſt thou have Grace and the Spirit from above, and the wealth of the world, then walk in that way God hath appointed: ſtay at <hi>Jeruſalem,</hi> méet God in his providence, and then thou ſhalt receive from his power and faithfulneſs what thou néedeſt: thou wouldeſt have God bleſs thée in thine Eſtate, and yet thou wouldſt be idle and careleſs; but this will not do the déed: God would give thee a bleſſing, but thou art not prepared to take it? This is the excellency of the Promiſes of God; as they require conditions, before they be<g ref="char:EOLhyphen"/>ſtow mercies; ſo they make us able to be partakers of the conditions: As for example, <hi>Ezek. 36.</hi> the Lord in the former part of y<hi rend="sup">t</hi> Chapter, promiſes to give them many things; but how? It muſt be by prayer, and humbling themſelves before him: he will give thée a family-bleſſing
+<pb facs="tcp:97862:11"/> by prayer in it; and a bleſſing is private, by prayer in private; and ſtrength a<g ref="char:EOLhyphen"/>gainſt ſin, and power againſt corruption: But I will be ſought unto for all theſe ſaith the Lord: <hi>Bleſſed is the man that walketh in his integrity, and his children after him.</hi> Therefore walk thou in the in<g ref="char:EOLhyphen"/>tegrity of thine heart, that's the condition of a Chriſtian in general. This the Lord requires: And the Lord that requireth the conditions, will help us to perform the conditions: and the ſame Lord ſaith, <hi>I will be intreated and ſought too for all theſe.</hi> And <hi>Pſal.</hi> 10. 17. <hi>He prepareth their hearts to pray:</hi> Go thou therefore to God to help thée to pray, that he may beſtow his bleſ<g ref="char:EOLhyphen"/>ſing upon thée, which he hath promiſed, <hi>Eze.</hi> 26, 27. He will firſt give them a <hi>new heart,</hi> then <hi>teach them to walk in his wayes.</hi> So if thou wilt walk in his ways, thou ſhalt have his bleſſings; therefore go thou (by Faith) to God for Strength and Grace, and then expects a Bleſſing from him.</p>
+            <p>Thirdly. We muſt believe that God will do it; ſo ſhall we receive in the ways of his providence, whatever he hath pro<g ref="char:EOLhyphen"/>miſed to give. This is the work of faith. <hi>Hannah</hi> wept ſore, and prayed to the Lord,
+<pb facs="tcp:97862:11"/> and went away, &amp; was no more ſorrowful <hi>1 Sam. 1. 18.</hi> and ſhe ſaid, Lord, I believe that I ſhall either have a child, or that which is as good or better: now <hi>Hannah's</hi> buſineſs was done. But imagin the Lord delayes, and does not ſuddenly accompliſh what he intends, and thou haſt uſed means to receive, he gives not, nor ſends no ſuc<g ref="char:EOLhyphen"/>cour according to thy deſire.</p>
+            <p>Fourthly, Then Faith is to ſtay till it come; as thou believeſt, ſo it will be: We prevent Gods kindneſs, when we go away before he be willing to beſtow it on us. But Faith will not do ſo; he that be<g ref="char:EOLhyphen"/>lieves does not make haſt away, but ſtays, and reſolves that it will come. <hi>The vi<g ref="char:EOLhyphen"/>ſion is for an appointed time,</hi> Therefore wait for it. Perhaps thou art troubled with thy ſins, and haſt laboured by Faith to ſubdue them, and looks for deliverance, and yet it comes not: therefore ſtay till God ſées it fit, and it will come, <hi>Pſal. 123. 2. As the eyes of a ſervant look to the hands of his maſter, and the eyes of a maiden to her miſtreſs; ſo our eyes wait upon the Lord our God, untill he have mercy upon us.</hi> It is not when I will, or according to my mind, but when the Lord pleaſes.</p>
+            <pb facs="tcp:97862:12"/>
+            <p>Fifthly, Yet perhaps the Lord ſéems ſometimes not only to delay his poore ſervants, and to withhold his favour; but he ſéems to frown, and ſay, he will not hear; and ſéems to be angry with the prayers of his ſervants, and as if he would not ſuccour or ſupply them. Thus he dealt with <hi>Jacob, <hi>Gen.</hi>
+               </hi> 32. 26. there the Lord ſayes, <hi>Let me go,</hi> I care not what becomes of thée: But <hi>Jacob</hi> lays hold up<g ref="char:EOLhyphen"/>on him, and would not let him go. So the laſt work of Faith is this: In a holy humility labour to contend with God, and by ſtrong hand overcome the Lord; for the Lord loves to be overcome thus; as it were, catch the Lord Ieſus &amp; ſtrive with him; leave him not till thou haſt theſe comforts he hath promiſed, and thou haſt begged.</p>
+            <p>This is the glorious victory and tri<g ref="char:EOLhyphen"/>umph of Faith, that gives thée the day too, and yeilds himſelf conquered: As it was with <hi>Jacob,</hi> when God ſaw he could not prevail, <hi>verſe 28. Thy name ſhall no more be called <hi>Jacob,</hi> but <hi>Iſrael,</hi> becauſe thou haſt prevailed with God.</hi> God is ready to give what he hath promiſed: but he will have us try the maſtery with him; we by faith in God, overcome God: as <hi>James 2.
+<pb facs="tcp:97862:12"/> 13: Mercy triumphs over Juſtice:</hi> You know what the Lord did to the woman of <hi>Ca<g ref="char:EOLhyphen"/>naon,</hi> when ſhe had ſtriven with Chriſt a great while, and would take no denial: at laſt he ſaith, <hi>O woman, great is thy faith, be it unto thee as thou wilt.</hi> Take what thou wilt, if thou wilt have life for thy child, and peace for thine own conſcience, and joy in the Holy Ghoſt, take it; for it is all thine. He, as it were, turns her looſe to all his treaſury. If ſhe had gone away at the firſt or ſecond denial, ſhe had found no help: but becauſe ſhe held out, ſhe had her hearts deſire. God would have us wreſtle with his Majeſty, that he may be overcome in mercy and goodneſs.</p>
+            <p>I might here have taken ſome of the moſt deſperate caſes that could be, that you might have ſéen what Faith would have done in midſt of the want of all Means, and in the greateſt extremity that would have befaln a poor Snner; but I paſs them all over. Now I beſéech you, conſider what hath béen ſaid: lay theſe things up by you; they will be an ever<g ref="char:EOLhyphen"/>laſting Treaſury for you. Many people live poorly, and make a poor ſhift to go to heaven: but I would have a Chriſtian to learn to live ſo, and uſe the means; that
+<pb facs="tcp:97862:13"/> they may get the ſap and ſwéet of the Promiſes, and ſo go ſinging, rejoycing, and triumphing up to Heaven.</p>
+            <p>To conclude, Thus we ſée the hinder<g ref="char:EOLhyphen"/>ances removed, and the means propoun<g ref="char:EOLhyphen"/>ded: and that we may be moved, and per<g ref="char:EOLhyphen"/>ſwaded (for our ſouls ſake; for Ieſus Chriſts ſake) to ſeek after this bleſſed Grace of Faith in Chriſt, let us further conſider thus much, that if we once get this Grace, we get all other Graces with it; further, would you have the glory of God in ſight, and be more heavenly mind<g ref="char:EOLhyphen"/>ed? then get it by the eye of Faith: look up to it in the face of Ieſus Chriſt, for there and there's only this viſion of the Glory of God to be ſéen, to your everlaſting Peace, and endleſs Comfort.</p>
+            <p>Courteous People, I deſire you (for Ieſus Chriſt's ſake) to buy this Book, and read it ſeriouſly, end meditate upon it, hopeing it will prove an everlaſting Treaſury, for your Souls good.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97862:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
